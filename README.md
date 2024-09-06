@@ -1,6 +1,3 @@
 # Brand Assets
 
-The brand assets of NoCodeClarity
-
-![NoCodeClarity Brand Guide](./assets/NCC_Brand_Guide.png)
-
+![NoCodeClarity Brand Guide](https://github.com/NoCodeClarity-OU/brand/raw/main/NCC%20Brand%20Guide.png)
